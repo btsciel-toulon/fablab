@@ -64,7 +64,10 @@ Documentation déjà disponible :
 
 - [Analog Discovery Studio — manuel de référence](doc/AnalogDevice/DiscoveryStudio/)
   (traduction française) : l'instrumentation de laboratoire (oscilloscope,
-  générateur de signaux, analyseur logique, alimentations, etc.).
+  générateur de signaux, analyseur logique, alimentations, etc.) en poste fixe.
+- [Analog Discovery 3 — manuel de référence](doc/AnalogDevice/AnalogDiscovery3/)
+  (traduction française) : la version de poche du même type d'instrumentation,
+  avec en plus un traceur de courbes.
 
 ## Langue
 
@@ -85,5 +88,6 @@ d'attribution.
 
 **Exception** : les documents qui reprennent ou traduisent des ressources de
 tiers conservent la licence d'origine, indiquée dans leur dossier. C'est le cas
-de la [traduction du manuel de l'Analog Discovery Studio](doc/AnalogDevice/DiscoveryStudio/),
-soumise à la licence CC BY-NC-SA 4.0 de Digilent.
+des traductions des manuels de l'[Analog Discovery Studio](doc/AnalogDevice/DiscoveryStudio/)
+et de l'[Analog Discovery 3](doc/AnalogDevice/AnalogDiscovery3/), soumises à la
+licence CC BY-NC-SA 4.0 de Digilent.
