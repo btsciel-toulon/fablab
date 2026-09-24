@@ -83,7 +83,7 @@ International](LICENSE) (CC BY 4.0). Vous pouvez les partager et les adapter, y
 compris à des fins commerciales, à condition de citer l'auteur :
 
 > Pascal JEAN (epsilonrt), lycée Rouvière, Toulon —
-> https://github.com/btsciel-toulon/fablab
+> https://github.com/btsciel-toulon/fablab-trace
 
 **Extraits de code et fichiers de configuration** : libres, sans obligation
 d'attribution.
