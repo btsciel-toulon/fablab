@@ -1,6 +1,6 @@
-# FabLab TRACE
+<h1 align="center"><img src="assets/logo.svg" alt="FabLab TRACE" width="360"></h1>
 
-*TRACE : **T**hings, **R**eflow, **A**I, **C**ircuits, **E**mbedded.*
+<p align="center"><em>TRACE : <strong>T</strong>hings, <strong>R</strong>eflow, <strong>A</strong>I, <strong>C</strong>ircuits, <strong>E</strong>mbedded.</em></p>
 
 Le **fablab électronique et informatique embarquée** du [lycée Rouvière – Suzanne Lefort-Rouquette](https://www.lycee-rouviere.fr/)
 à Toulon est un atelier de fabrication numérique **orienté vers l'électronique**.
