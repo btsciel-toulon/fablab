@@ -1,6 +1,8 @@
-# Fablab
+# FabLab TRACE
 
-Le **fablab** du BTS CIEL du [lycée Rouvière – Suzanne Lefort-Rouquette](https://www.lycee-rouviere.fr/index.php/superieur/b-t-s/systemes-numeriques-option-b)
+*TRACE : **T**hings, **R**eflow, **A**I, **C**ircuits, **E**mbedded.*
+
+Le **fablab électronique et informatique embarquée** du [lycée Rouvière – Suzanne Lefort-Rouquette](https://www.lycee-rouviere.fr/)
 à Toulon est un atelier de fabrication numérique **orienté vers l'électronique**.
 On y conçoit, on y assemble, on y programme et on y teste des systèmes
 électroniques communicants, du composant CMS à l'intelligence artificielle
@@ -9,10 +11,10 @@ embarquée.
 Ce dépôt rassemble la documentation du fablab, les activités pratiques qui s'y
 déroulent et les projets qui y sont menés.
 
-> Le BTS (Brevet de Technicien Supérieur) **CIEL** — *Cybersécurité,
-> Informatique et réseaux, Électronique* — forme des techniciens supérieurs
-> polyvalents, à la frontière entre électronique embarquée, réseaux et
-> administration système.
+> Ce dépôt est hébergé dans l'organisation GitHub du
+> [BTS CIEL](https://www.lycee-rouviere.fr/index.php/superieur/b-t-s/systemes-numeriques-option-b)
+> (*Cybersécurité, Informatique et réseaux, Électronique*), mais le fablab est
+> celui du lycée, pas celui d'une seule formation.
 
 ## Ce que l'on fait au fablab
 
