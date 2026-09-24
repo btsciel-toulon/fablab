@@ -16,6 +16,17 @@ déroulent et les projets qui y sont menés.
 > (*Cybersécurité, Informatique et réseaux, Électronique*), mais le fablab est
 > celui du lycée, pas celui d'une seule formation.
 
+## Financement
+
+<a href="https://campus-industriefutur-sud.com/i-novmicro/"><img src="assets/campus-industrie-du-futur-sud.png" alt="Campus des métiers et des qualifications d'excellence Industrie du Futur Sud" width="96" align="right"></a>
+
+Le fablab a été financé dans le cadre de
+[I-NOVMICRO](https://campus-industriefutur-sud.com/i-novmicro/), un projet
+d'innovation porté par le Campus des métiers et des qualifications d'excellence
+Industrie du Futur Sud. Il vise à créer une nouvelle offre de formations pour
+favoriser la professionnalisation de haut niveau en microélectronique et en
+électronique, en région Provence-Alpes-Côte d'Azur.
+
 ## Ce que l'on fait au fablab
 
 ### Assemblage de cartes électroniques en composants CMS
@@ -93,3 +104,7 @@ tiers conservent la licence d'origine, indiquée dans leur dossier. C'est le cas
 des traductions des manuels de l'[Analog Discovery Studio](doc/AnalogDevice/DiscoveryStudio/)
 et de l'[Analog Discovery 3](doc/AnalogDevice/AnalogDiscovery3/), soumises à la
 licence CC BY-NC-SA 4.0 de Digilent.
+
+Le logo du Campus des métiers et des qualifications d'excellence Industrie du
+Futur Sud reste la propriété de son titulaire ; il n'est pas couvert par la
+licence CC BY 4.0 de ce dépôt.
