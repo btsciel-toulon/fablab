@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 432 200" width="432" height="200" role="img" aria-labelledby="t d">
+  <title id="t">FabLab TRACE</title>
+  <desc id="d">Logo du FabLab TRACE : le mot TRACE dessiné en pistes de cuivre chanfreinées, terminées par des pastilles percées, sur un circuit imprimé vert. Au-dessus, FABLAB en sérigraphie blanche.</desc>
+
+  <defs>
+    <!-- Through-hole pad: copper ring, hole filled with the solder-mask colour so the trace underneath stays hidden -->
+    <g id="pad"><circle r="7" fill="#E3B04B"/><circle r="2.5" fill="#0B3D2E"/></g>
+
+    <!-- Silkscreen letters, 22 x 30 -->
+    <path id="sF" d="M22,0 H0 V30 M0,14 H16"/>
+    <path id="sA" d="M0,30 V6 L6,0 H16 L22,6 V30 M0,17 H22"/>
+    <path id="sB" d="M16,15 L22,21 V24 L16,30 H0 V0 H16 L22,6 V9 Z M0,15 H16"/>
+    <path id="sL" d="M0,0 V30 H22"/>
+  </defs>
+
+  <!-- Solder mask -->
+  <rect width="432" height="200" rx="16" fill="#0B3D2E"/>
+
+  <!-- FABLAB, silkscreen -->
+  <g fill="none" stroke="#F2F2EA" stroke-width="5" stroke-linejoin="round">
+    <use href="#sF" transform="translate(60,36)"/>
+    <use href="#sA" transform="translate(118,36)"/>
+    <use href="#sB" transform="translate(176,36)"/>
+    <use href="#sL" transform="translate(234,36)"/>
+    <use href="#sA" transform="translate(292,36)"/>
+    <use href="#sB" transform="translate(350,36)"/>
+  </g>
+
+  <!-- TRACE, copper traces (60 tall, 40 wide, 45-degree corners) -->
+  <g fill="none" stroke="#E3B04B" stroke-width="8" stroke-linejoin="round">
+    <!-- T -->
+    <path transform="translate(60,104)" d="M0,0 H40 M20,0 V60"/>
+    <!-- R -->
+    <path transform="translate(128,104)" d="M0,60 V0 H28 L40,12 V18 L28,30 H0 M24,30 L40,46 V60"/>
+    <!-- A -->
+    <path transform="translate(196,104)" d="M0,60 V14 L14,0 H26 L40,14 V60 M0,36 H40"/>
+    <!-- C -->
+    <path transform="translate(264,104)" d="M40,0 H14 L0,14 V46 L14,60 H40"/>
+    <!-- E -->
+    <path transform="translate(332,104)" d="M40,0 H0 V60 H40 M0,30 H32"/>
+  </g>
+
+  <!-- Pads at the free ends of every trace -->
+  <g>
+    <!-- T -->
+    <use href="#pad" x="60"  y="104"/><use href="#pad" x="100" y="104"/><use href="#pad" x="80"  y="164"/>
+    <!-- R -->
+    <use href="#pad" x="128" y="164"/><use href="#pad" x="168" y="164"/>
+    <!-- A -->
+    <use href="#pad" x="196" y="164"/><use href="#pad" x="236" y="164"/>
+    <!-- C -->
+    <use href="#pad" x="304" y="104"/><use href="#pad" x="304" y="164"/>
+    <!-- E -->
+    <use href="#pad" x="372" y="104"/><use href="#pad" x="372" y="164"/><use href="#pad" x="364" y="134"/>
+  </g>
+</svg>
